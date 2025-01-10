@@ -1,0 +1,18 @@
+[
+    {
+        "id": "2",
+        "first_name": "mai",
+        "last_name": "nguyen ngoc",
+        "birth_year": 2004,
+        "salary": 5000000,
+        "reward": 1000000
+    },
+    {
+        "id": "1",
+        "first_name": "thien",
+        "last_name": "cao xuan",
+        "birth_year": 2002,
+        "work_hours": 5,
+        "salary_per_hour": 15000
+    }
+]
